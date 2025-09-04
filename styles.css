@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+a {
+  text-decoration: none;
+}
+
+
 body {
   font-family: 'Manrope', sans-serif;
   background-color: #f8f9fa;
@@ -206,4 +211,5 @@ footer {
   font-size: 0.9rem;
   color: #555;
 }
+
 
